@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
