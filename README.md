@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
