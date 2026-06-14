@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
