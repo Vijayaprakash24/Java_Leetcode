@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0013-roman-to-integer) |
+| [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Trie
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
