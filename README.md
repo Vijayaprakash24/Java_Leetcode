@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0344-reverse-string) |
+| [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 ## Tree
 |  |
 | ------- |
