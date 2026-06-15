@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
