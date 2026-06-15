@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
