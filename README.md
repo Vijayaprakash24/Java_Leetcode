@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
