@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0058-length-of-last-word) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0258-add-digits) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
 | ------- |
