@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
