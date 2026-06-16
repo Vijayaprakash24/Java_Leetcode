@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 ## Tree
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
