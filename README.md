@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1929-concatenation-of-array) |
+| [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 | [3379-transformed-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3379-transformed-array) |
 ## Trie
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 ## Quickselect
 |  |
 | ------- |
