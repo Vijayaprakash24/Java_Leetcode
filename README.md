@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1929-concatenation-of-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
