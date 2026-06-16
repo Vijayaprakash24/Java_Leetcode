@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
