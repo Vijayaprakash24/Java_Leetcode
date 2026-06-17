@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0707-design-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
