@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3379-transformed-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0029-divide-two-integers) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 ## Quickselect
 |  |
