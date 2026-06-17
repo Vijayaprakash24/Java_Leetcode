@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
+| [0817-linked-list-components](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1122-relative-sort-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
+| [0817-linked-list-components](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0817-linked-list-components) |
 | [0896-monotonic-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0941-valid-mountain-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
