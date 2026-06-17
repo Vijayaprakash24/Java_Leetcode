@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3379-transformed-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3379-transformed-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3379-transformed-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
@@ -307,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
