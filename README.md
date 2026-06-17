@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1122-relative-sort-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 ## Array
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1929-concatenation-of-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1122-relative-sort-array) |
 ## Tree
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
 | ------- |
