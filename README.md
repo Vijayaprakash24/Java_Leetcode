@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3340-check-balanced-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3340-check-balanced-string) |
+| [3794-reverse-string-prefix](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [3794-reverse-string-prefix](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
