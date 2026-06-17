@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3151-special-array-i) |
 | [3379-transformed-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3379-transformed-array) |
+| [3912-valid-elements-in-an-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
