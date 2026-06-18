@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0565-array-nesting) |
 | [0817-linked-list-components](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0817-linked-list-components) |
 | [0896-monotonic-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0565-array-nesting](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
