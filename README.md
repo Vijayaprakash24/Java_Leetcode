@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0525-contiguous-array) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 | [0817-linked-list-components](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0817-linked-list-components) |
 | [0896-monotonic-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0896-monotonic-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
