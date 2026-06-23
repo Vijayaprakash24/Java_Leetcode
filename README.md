@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
