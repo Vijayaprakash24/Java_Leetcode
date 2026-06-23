@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
