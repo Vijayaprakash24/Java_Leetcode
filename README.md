@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0817-linked-list-components) |
+| [0875-koko-eating-bananas](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0941-valid-mountain-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
