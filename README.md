@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0055-jump-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
