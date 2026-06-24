@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 ## Backtracking
