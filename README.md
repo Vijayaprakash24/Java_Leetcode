@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
