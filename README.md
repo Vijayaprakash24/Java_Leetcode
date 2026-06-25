@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0045-jump-game-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
