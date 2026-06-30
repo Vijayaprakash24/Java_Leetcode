@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0344-reverse-string) |
 | [0791-custom-sort-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0791-custom-sort-string) |
+| [1143-longest-common-subsequence](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3340-check-balanced-string](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Vijayaprakash24/Java_Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
